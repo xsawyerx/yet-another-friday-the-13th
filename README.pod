@@ -1,0 +1,9 @@
+=head1 WHAT
+
+The purpose is to simply find every Friday the 13th, originally using Perl,
+but now via any means. Please fork and add your own implementation!
+
+=head1 WHY
+
+http://blogs.perl.org/users/sawyer_x/2012/07/yet-another-friday-the-13th.html
+
