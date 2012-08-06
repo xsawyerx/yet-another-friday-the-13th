@@ -1,3 +1,6 @@
+{
+  Based on code both of leledumbo and Howard Page-Clark
+}
 program friday13;
 uses sysutils;
 
